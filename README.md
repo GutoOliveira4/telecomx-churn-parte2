@@ -9,7 +9,7 @@ telecomx-churn/
 ├── data/
 │    └── dados_tratados.csv          # Dados limpos e tratados
 ├── notebooks/
-│    └── TelecomX_Churn.ipynb        # Notebook principal (Google Colab)
+│    └── telecomx_churn_parte2.ipynb        # Notebook principal (Google Colab)
 ├── reports/
 │    ├── resultados_modelos.txt      # Métricas dos modelos
 │    ├── relatorio_final.md          # Insights e recomendações
@@ -22,7 +22,7 @@ telecomx-churn/
 ## 📥 Como Executar no Google Colab
 
 1. Abra o [Google Colab](https://colab.research.google.com/).
-2. Carregue o notebook `TelecomX_Churn.ipynb` da pasta `notebooks/`.
+2. Carregue o notebook `telecomx_churn_parte2.ipynb` da pasta `notebooks/`.
 3. Execute célula por célula:
    - **ETL**: Carregamento e transformação dos dados.
    - **EDA**: Visualizações e estatísticas descritivas.
